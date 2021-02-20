@@ -3,7 +3,7 @@
 
 **Course Date:** 15.02.20201  
 **Name:** Cihan  
-**Surname:** İcelliler  
+**Surname:** İçelliler  
 **Email:** icellilercihan@gmail.com 
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
