@@ -1,5 +1,5 @@
 #Explain your work
-
+#Cihan İçelliler
 #Question 1
 def prime_first():
     for numbers in range(500):  
